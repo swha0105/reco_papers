@@ -1,4 +1,4 @@
-# 2021
+<!-- # 2021
 
 ## August
 
@@ -26,3 +26,5 @@
     - Numerical feature(Dense feature)를 Bottom MLP로, Categorical feature를 Embedding하여 나온 결과들을 pairwise interaction하여 상호작용을 고려한다 (자세한건 안나옴)
 
     - Butterfly shuffle을 통해 병렬화 (사실상 핵심)
+ -->
+
